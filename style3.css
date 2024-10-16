@@ -18,11 +18,9 @@ h1 {
 
 p{
   text-align:center;
-
 }
 
 p1{
-
   text-align:center;
   font-size:40px;
   font-family: 'Cabin', sans-serif;
@@ -48,17 +46,12 @@ p4{
   font-family:system-ui;
   color:#2d260c;
   font-size:1.5em;
-
-margin-left:30%;
-margin-right:30%;
-  
-padding-left: 0%;
-padding-right:0%;
-
-text-align:center;
-  
-
-background-color:pink;
+  margin-left:30%;
+  margin-right:30%;
+  padding-left: 0%;
+  padding-right:0%;
+  text-align:center;
+  background-color:pink;
 }
 
 p8{
@@ -75,7 +68,6 @@ p9{
   color: #2d260c;
   font-family: 'DM Sans', sans-serif;
   padding:20px;
-  
 }
 
 
@@ -98,23 +90,20 @@ margin:5px;
   background-image: url("assets/sunflowers.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-
   font-size:5em;
   color: #eff1f0;
   font-family:'DM Sans';
-  
 }
 
 ul {
-list-style-type: none;
+  list-style-type: none;
   background-color: #2d260c;
   overflow: hidden;
   padding: 3em;
   text-align:center;
 }
 li {
-display:inline;
-  
+display:inline; 
   /*makes it vertical*/
 }
 
@@ -122,7 +111,6 @@ display:inline;
   list-style-type: none;
   background-color: #2d260c;
   overflow: hidden;
-  
   text-align:center;
 }
 
@@ -151,13 +139,11 @@ border-radius:4%;
   background: #0D38D3;
   border-style: none;
   border-radius: 10px;
-
   padding: 10px;
   margin-top: 20px;
   margin-bottom: 15px;
   margin-left: 35%;
   margin-right: 35%;
-
   color: #ffffff;
   font-size: 1em;
 }
@@ -176,13 +162,10 @@ border-radius:4%;
   background: white;
   border-radius: 10px;
   border-style:none;
-
   padding: 15px;
-
   margin-top: 30px;
   margin-left: 10%;
   margin-right:10%;
-
   font-family: "Roboto Mono", sans-serif;
   font-size: 2em;
   text-align:center;
@@ -191,19 +174,14 @@ border-radius:4%;
 }
 .attribution{
 padding-bottom:3em;
-  
 }
 
 #fact {
   border-style:white;
-  
-
   padding:15px;
-
   margin-top:30px;
   margin-left:20%;
   margin-right:20%;
-
   font-family: "Roboto Mono", sans-serif;
   font-size: 2em;
   text-align: center;
@@ -216,18 +194,14 @@ padding-bottom:3em;
   background-color: #2d260c;
   border-radius: 0px;
   border-style:none;
-  
-  
   font-family: system-ui;
   text-align:center;
   font-size:25px;
   color:#white;
-
   padding-top:60px;
   padding-bottom:60px;
   padding-left:200px;
   padding-right:200px;
-
   margin-top: 100px;
   margin-left: 25%;
   margin-right: 25%;
@@ -235,9 +209,8 @@ padding-bottom:3em;
 
 .image1 {
   padding-top:1em;
-border-radius: 100%;
+  border-radius: 100%;
   width:100px;
-  
 }
 /* ADD MORE! */
 
@@ -245,22 +218,15 @@ border-radius: 100%;
 background-color:#f0f1ef;
   padding: 70px;
   width:70%
-  
 }
 
 .bottom {
   background: #2d260c;
   border-style:none;
-  
-  
   font-family: system-ui;
   text-align:center;
   font-size:20px;
   color:#eff1f0;
-
   padding: 50px;
-
   width:93.44%;
-
-
 }

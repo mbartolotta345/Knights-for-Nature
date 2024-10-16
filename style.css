@@ -6,8 +6,6 @@
 
 /*Fonts*/
 
-
-
 /*fade transition code*/
 .fade-in-image { animation: fadeIn 2s; }
 
@@ -71,14 +69,11 @@ p3{
   padding-right:0em;
   font-family:system-ui;
   line-height:1.5em;
-
 }
 
 p4{
-
   color:#4f4516;
 font-family:system-ui;
-
 }
 
 p5{
@@ -101,15 +96,12 @@ img{
   width: 100%;
   background-image: url("assets/trees.jpg");
   background-color: #c4cfc4;
-
   background-repeat: no-repeat;
   background-size: cover;
   background-blend-mode: multiply;
   background-position: center;
-  
   padding-top: 200px;
   padding-bottom: 200px;
-
   
 }
 
@@ -144,9 +136,9 @@ list-style-type: none;
   padding: 3em;
   text-align:center;
 }
+
 li {
 display:inline;
-  
   /*makes it vertical*/
 }
 
@@ -155,51 +147,27 @@ li a {
   color: #eff1f0;
   font-size: 220%;
   padding: 1em;
-  font-family:system-ui;
-  
+  font-family:system-ui;  
 }
 
 li a:hover {
 background-color: #48411e;
 text-shadow: 2px 2px 4px #050505;
 border-radius:4%;
-  
 }
 
 .bottom {
   background: #2d260c;
   border-style:none;
-  
-  
   font-family: system-ui;
   text-align:center;
   font-size:20px;
   color:#eff1f0;
-
   padding: 50px;
-
   width:90%;
-
-
-
 }
 
 .emptySpace {
 background-color:#eff1f0;
 padding-top: 50px;
   
-/* STYLE BUTTONS */
-
-/* ADD MORE! */
-
-
-  /*
-@media screen
-and (min-width: 320px)
-and (max-width: 480px){
-    p3{
-      font-size: 1px;
-       }
-}
-
-*/
